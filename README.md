@@ -1,8 +1,7 @@
-- 👋 Hi, I’m sagar
+- 👋 Hi, I’m Sagar Pawar
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Data Science & Artificial Intelligence
+- 🌱 Ambitious data scientist with a post-graduate degree in Data Science and Artificial Intelligence from Imarticus Learning. 
 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sagar2168616@gmail.com
 
 <!---
