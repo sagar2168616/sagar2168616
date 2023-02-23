@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Pawar
-- 👀 I’m interested in ...Data Science
-- 🌱 Post-graduate degree in Data Science and Artificial Intelligence from Imarticus Learning. Looking for opportunity in Data Science
+- 👀 I’m interested in ...Data Analytics
+- 🌱 Post Graduate in Data Analytics and Machine Learning seeking entry-level opportunities to apply analytical skills and knowledge to    real-world problems."
 
 - 📫 How to reach me ...sagar2168616@gmail.com
 
