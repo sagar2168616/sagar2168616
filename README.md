@@ -1,10 +1,33 @@
-- 👋 Hi, I’m Sagar Pawar
-- 👀 I’m interested in ...Data Analytics
-- 🌱 Post Graduate in Data Analytics and Machine Learning seeking entry-level opportunities to apply analytical skills and knowledge to    real-world problems."
+# 👋 Hi there, I'm Sagar Pawar
 
-- 📫 How to reach me ...sagar2168616@gmail.com
+🎯 **Data Analyst | Python | SQL | Power BI | Excel VBA Automation**
 
-<!---
-sagar2168616/sagar2168616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧭 About Me
+I'm a data-driven problem solver with hands-on experience in **data analytics, automation, and business intelligence**.  
+I enjoy turning messy, large datasets into actionable insights — and I’m passionate about automating workflows that save time and boost accuracy.
+
+My long-term focus is to evolve into a **Data Scientist**, combining analytical rigor with machine learning and visualization to drive smarter business decisions.
+
+---
+
+## 🧰 Technical Skills
+- **Languages:** Python, SQL, VBA, DAX  
+- **Data Tools:** Power BI, Tableau, Excel (Advanced), Power Query  
+- **Data Handling:** Data Cleaning, Data Validation, Data Profiling  
+- **Automation:** Excel Macros 
+- **Machine Learning:** scikit-learn, Pandas, NumPy, Matplotlib  
+
+---
+
+
+## 💬 Let’s Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sagar2168616/)
+- 📘 [Kaggle](https://www.kaggle.com/sagar2168616)  
+- 📫 **Email:** sagar2168616@gmail.com  
+
+---
+
+> 🧩 *“Turning data into clarity, and clarity into action.”*
+
