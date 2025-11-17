@@ -6,7 +6,7 @@
 
 ## 🧭 About Me
 I'm a data-driven problem solver with hands-on experience in **data analytics, automation, and business intelligence**.  
-I enjoy turning messy, large datasets into actionable insights — and I’m passionate about automating workflows that save time and boost accuracy.
+I enjoy turning messy, large datasets into actionable insights and I’m passionate about automating workflows that save time and boost accuracy.
 
 My long-term focus is to evolve into a **Data Scientist**, combining analytical rigor with machine learning and visualization to drive smarter business decisions.
 
