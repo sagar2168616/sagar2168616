@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sagar Pawar
 
-🎯 **Data Analyst | Python | SQL | Power BI | Excel VBA Automation**
+🎯 **Data Analyst | Python | SQL | Power BI | Excel | VBA Automation**
 
 ---
 
