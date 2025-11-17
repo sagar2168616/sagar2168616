@@ -24,7 +24,8 @@ My long-term focus is to evolve into a **Data Scientist**, combining analytical 
 
 ## 💬 Let’s Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sagar2168616/)
-- 📘 [Kaggle](https://www.kaggle.com/sagar2168616)  
+- 📘 [Kaggle](https://www.kaggle.com/sagar2168616)
+- 📚 [Portfolio](https://github.com/sagar2168616/Project-Portfolio) 
 - 📫 **Email:** sagar2168616@gmail.com  
 
 ---
